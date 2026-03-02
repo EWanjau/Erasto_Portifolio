@@ -46,7 +46,7 @@ KEMRI (Kenya Medical Research Institute) needed a dedicated portal for its Gradu
 * I developed a multi-step digital application form that collects student data, program choices, and referral sources, streamlining the admissions office's workload.
 * Implemented a robust News feature to handle frequent updates like Semester Timetables and Graduation Announcements, ensuring students always have the latest info.
 
-## Key Features to Highlight
+## Key Features
 
 * A dedicated area for students to access fee structures, handbooks, and thesis submission formats.
 * Optimized the site for keywords like "Medical Research Training Kenya" to ensure high visibility among aspiring scientists.
@@ -73,7 +73,7 @@ GracePoint Church needed a digital home that could serve its local congregation 
 * The site had to facilitate home cell groups and provide clear paths for new visitors to join.
 * A secure, integrated way for members to give and support the church via M-Pesa and Bank transfers.
 
-## The Solution (Your Technical Work)
+## The Solution 
 
 * I built a custom sermon & resource engine that categorizes content by series, speaker, and topic, ensuring the congregation can access years of teaching easily.
 * We integrated the church’s YouTube channel and podcast feeds directly into the site, ensuring that when they go live or upload a new video, the website stays updated automatically.
@@ -91,12 +91,3 @@ GracePoint Church needed a digital home that could serve its local congregation 
 * The site transitioned from a static landing page to a weekly resource for the church community.
 * By automating the media uploads and simplifying the content workflow, the church staff saved hours of manual data entry each week.
 
-
-If you want, I can now format this with:
-
-* GitHub badges
-* Screenshots sections
-* A cleaner recruiter-facing top summary
-* Or a more technical architecture section
-
-All without changing your original wording.
