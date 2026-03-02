@@ -86,6 +86,8 @@ GracePoint Church needed a digital home that could serve its local congregation 
 * I integrated Google Maps and clear location directions to help new visitors find the church premises off Wambaa Road.
 * I created a structure for their monthly newsletter to be archived and easily readable online.
 
+🔗 [gpc-waiyaki-way-church](https://gpcwaiyakiway.org/)
+
 ## The Result
 
 * The site transitioned from a static landing page to a weekly resource for the church community.
