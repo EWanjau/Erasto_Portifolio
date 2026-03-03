@@ -24,9 +24,9 @@ As an international accrediting body, AFCAA needed a website that connects them 
 * The site now serves as the hub for many Christian organizations seeking accreditation across Africa.
 * Potential members can now download all necessary prerequisites directly, reducing manual email inquiries by the AFCAA secretariat.
 
-🔗 [AFCAA_Main_Website](https://afcaa.org/get-accredited/?#process)
+🔗 [AFCAA_Main_Website](https://afcaa.org)
 
-# Project 2: KEMRI Graduate School
+# [Project 2: KEMRI Graduate School](https://kgs.ac.ke/)
 
 **Role:** WordPress Developer
 
@@ -59,7 +59,7 @@ KEMRI (Kenya Medical Research Institute) needed a dedicated portal for its Gradu
 🔗 [kemri-graduate-school](https://kgs.ac.ke/)
 
 
-# Project 3: GPC Waiyaki Way Church
+# [Project 3: GPC Waiyaki Way Church](https://gpcwaiyakiway.org/)
 
 **Role:** Lead Web Developer
 
