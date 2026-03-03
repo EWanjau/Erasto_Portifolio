@@ -93,3 +93,43 @@ GracePoint Church needed a digital home that could serve its local congregation 
 * The site transitioned from a static landing page to a weekly resource for the church community.
 * By automating the media uploads and simplifying the content workflow, the church staff saved hours of manual data entry each week.
 
+Below is your content converted into **GitHub-ready Markdown**.
+**No words have been changed.** Only formatting has been applied.
+
+---
+
+# Project 4: CyberAge Africa
+
+🔗 [Project 4: CyberAge Africa](https://cyberage.africa/)
+
+**Role:** WordPress Developer
+
+**Technical Skills:** WordPress, Elementor Pro, Advanced Custom Fields (ACF), Yoast SEO, Custom CSS/PHP.
+
+
+## The Challenge
+
+CyberAge Technologies is a technology firm in Kenya focusing on AI, Chatbots, and Cybersecurity. They needed a digital presence that matched their innovation identity. The primary challenge was to create a site that:
+
+* Explained complex services (AI workflows, Chatbots) in a user-friendly way.
+* Loaded quickly to maintain a high-tech feel (speed = authority).
+* Converted visitors through lead magnets like Free AI Audits.
+
+
+## The Solution
+
+* I optimized the site for speed and core web vitals, ensuring that despite heavy imagery and modern layouts, the site feels modern.
+* I built and integrated custom forms and call-to-action (CTA) zones to streamline their sales pipeline.
+* I implemented the structured site architecture to handle a growing resource hub and Blog, ensuring deep-linking between services (AI Chatbots) and educational content (AI Ethics).
+* I implemented a mobile-first layout, as a significant portion of their B2B traffic in the African market originates from mobile devices.
+
+
+## Result
+
+* The site now serves as the primary sales tool for their Nairobi headquarters.
+* The backend is built so the CyberAge team can easily add new AI services or case studies without needing further code changes.
+
+
+🔗 [https://cyberage.africa/](https://cyberage.africa/)
+
+
