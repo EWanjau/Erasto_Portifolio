@@ -98,9 +98,7 @@ Below is your content converted into **GitHub-ready Markdown**.
 
 ---
 
-# Project 4: CyberAge Africa
-
-🔗 [Project 4: CyberAge Africa](https://cyberage.africa/)
+# [Project 4: CyberAge Africa](https://cyberage.africa/)
 
 **Role:** WordPress Developer
 
