@@ -96,7 +96,6 @@ GracePoint Church needed a digital home that could serve its local congregation 
 Below is your content converted into **GitHub-ready Markdown**.
 **No words have been changed.** Only formatting has been applied.
 
----
 
 # [Project 4: CyberAge Africa](https://cyberage.africa/)
 
