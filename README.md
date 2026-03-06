@@ -23,7 +23,7 @@ As an international accrediting body, AFCAA needed a website that connects them 
 
 * The site now serves as the hub for many Christian organizations seeking accreditation across Africa.
 * Potential members can now download all necessary prerequisites directly, reducing manual email inquiries by the AFCAA secretariat.
-  ![image -of-data-aalysis](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM4H__Wnz4yMrZLF5S_V_cNWyJ6_BVkKu-pg&s)
+  ![image -of-data-analysis](/assets/KEMRI-Graduate-School-Home-Page-Elementor-KEMRI-Graduate-School-03-02-2026_10_10_PM.png)
 
 🔗 [AFCAA_Main_Website](https://afcaa.org)
 
